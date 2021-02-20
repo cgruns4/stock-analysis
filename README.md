@@ -6,7 +6,11 @@
 
 We were challenged to update the VBA code for the stock analysis to determine if the new refractored code, which was designed to loop through the data only once, would run faster then the original code written with loops.  
 
-Insert Code Images
+ORIGINAL
+![Original Code](https://user-images.githubusercontent.com/71041680/108607805-a1162500-7390-11eb-8ab0-d3fb4c514a34.PNG)
+---
+REFACTORED
+![Refactored Code](https://user-images.githubusercontent.com/71041680/108607824-bc813000-7390-11eb-8f32-f9ff0987afc4.PNG)
 
 
 The following images exhibit the refactored code run time, which was significantly faster then the original code.  
