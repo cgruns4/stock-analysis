@@ -15,7 +15,9 @@ Refactored Code
 ![Refactored Code](https://user-images.githubusercontent.com/71041680/108607824-bc813000-7390-11eb-8f32-f9ff0987afc4.PNG)
 
 
-The following images exhibit the refactored code run time, which was significantly faster then the original code.  
+The following images exhibit the refactored code run time, which was significantly faster then the original code.  Run times for the Original VBA code were 0.664 seconds and 0.750 seconds for 2017 + 2018 respectively.  Upon refactoring the code, the new run times were 0.086 and 0.094 for 2017 + 2018.
+
+
 
 
 Insert Results Images
