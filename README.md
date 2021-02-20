@@ -4,8 +4,8 @@
 ## Refactored VBA code to determine what impact the new single loop code had on overall processing time.
 ---
 
-We were challenged to update the VBA code for the stock analysis to determine if the new refractored code, which was designed to loop through the data only once, would run faster then the original code written with loops.  
----
+We were challenged to update the VBA code for the stock analysis to determine if the new refactored code, which was desinged to loop through the data only once, would run faster than the original code written with multiple loops.
+
 Original Code
 
 ![Original Code](https://user-images.githubusercontent.com/71041680/108607805-a1162500-7390-11eb-8ab0-d3fb4c514a34.PNG)
